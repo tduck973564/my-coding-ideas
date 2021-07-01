@@ -1,0 +1,6 @@
+#!/bin/sh
+
+cd $CODING_IDEAS_LIST
+echo -e "\n- $1" >> ./README.md
+git commit -m "added idea"
+git push

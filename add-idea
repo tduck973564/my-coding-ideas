@@ -2,7 +2,7 @@
 
 cd $CODING_IDEAS_LIST
 git pull
-echo -e "- $1" >> ./README.md
+echo "- $1" >> ./README.md
 git add ./README.md
 git commit -m "added idea"
 git push

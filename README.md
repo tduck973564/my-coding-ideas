@@ -8,3 +8,4 @@ A collection of ideas I have rounded up.
 - rust interpreter
 - perlin noise over the network
 - Basic distributed computing program
+- 4 bit adder in minecraft
